@@ -1,0 +1,17 @@
+C:\Users\alexa\OneDrive\Desktop\Moscaliuc_Timotei_3131A_L5\bin\Debug\Moscaliuc_Timotei_3131A_L5.exe.config
+C:\Users\alexa\OneDrive\Desktop\Moscaliuc_Timotei_3131A_L5\bin\Debug\Moscaliuc_Timotei_3131A_L5.exe
+C:\Users\alexa\OneDrive\Desktop\Moscaliuc_Timotei_3131A_L5\bin\Debug\Moscaliuc_Timotei_3131A_L5.pdb
+C:\Users\alexa\OneDrive\Desktop\Moscaliuc_Timotei_3131A_L5\bin\Debug\OpenTK.dll
+C:\Users\alexa\OneDrive\Desktop\Moscaliuc_Timotei_3131A_L5\bin\Debug\OpenTK.GLControl.dll
+C:\Users\alexa\OneDrive\Desktop\Moscaliuc_Timotei_3131A_L5\bin\Debug\System.Drawing.Common.dll
+C:\Users\alexa\OneDrive\Desktop\Moscaliuc_Timotei_3131A_L5\bin\Debug\OpenTK.pdb
+C:\Users\alexa\OneDrive\Desktop\Moscaliuc_Timotei_3131A_L5\bin\Debug\OpenTK.xml
+C:\Users\alexa\OneDrive\Desktop\Moscaliuc_Timotei_3131A_L5\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\alexa\OneDrive\Desktop\Moscaliuc_Timotei_3131A_L5\bin\Debug\OpenTK.GLControl.xml
+C:\Users\alexa\OneDrive\Desktop\Moscaliuc_Timotei_3131A_L5\bin\Debug\System.Drawing.Common.pdb
+C:\Users\alexa\OneDrive\Desktop\Moscaliuc_Timotei_3131A_L5\bin\Debug\System.Drawing.Common.xml
+C:\Users\alexa\OneDrive\Desktop\Moscaliuc_Timotei_3131A_L5\obj\Debug\Moscaliuc_Timotei_3131A_L5.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Desktop\Moscaliuc_Timotei_3131A_L5\obj\Debug\Moscaliuc_Timotei_3131A_L5.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Desktop\Moscaliuc_Timotei_3131A_L5\obj\Debug\Moscaliuc_Timotei_3131A_L5.csproj.CopyComplete
+C:\Users\alexa\OneDrive\Desktop\Moscaliuc_Timotei_3131A_L5\obj\Debug\Moscaliuc_Timotei_3131A_L5.exe
+C:\Users\alexa\OneDrive\Desktop\Moscaliuc_Timotei_3131A_L5\obj\Debug\Moscaliuc_Timotei_3131A_L5.pdb

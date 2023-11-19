@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moscaliuc_Timotei_3131A_L5", "Moscaliuc_Timotei_3131A_L5.csproj", "{FCB65434-27F8-4601-9417-A266404DA823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCB65434-27F8-4601-9417-A266404DA823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB65434-27F8-4601-9417-A266404DA823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB65434-27F8-4601-9417-A266404DA823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB65434-27F8-4601-9417-A266404DA823}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E453FBE-4AAF-43B0-BCAF-8CE1EB66775B}
+	EndGlobalSection
+EndGlobal
